@@ -1,1 +1,1 @@
-# Botclan.rangid
+# Bot.rangid
